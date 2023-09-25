@@ -19,3 +19,5 @@ Download and install app-debug.apk on your phone.
 ![image](https://github.com/FLEMMINDO/benchfinder/assets/95833708/396ac172-5d32-4b06-852d-a37b83bf46af)
 
 If you want to add a new bench - click wherever u want to add it on map and click down-right button.
+
+**(Check Presentation.pdf for more info)**
